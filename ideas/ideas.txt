@@ -1,5 +1,8 @@
 List of ideas (Success/Fail/Not Implemented)
 Frequency Encoder
+EXT_1 by Age mean Imputing
+Group Mean Imputing
+Model Prediction Imputing
 Clustering
 k-Neighbours Target Mean
 Feature Selection
