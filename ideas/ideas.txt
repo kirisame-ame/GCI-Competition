@@ -1,1 +1,6 @@
-model voting
+List of ideas (Success/Fail/Not Implemented)
+Frequency Encoder
+Clustering
+k-Neighbours Target Mean
+Feature Selection
+Voting Models
