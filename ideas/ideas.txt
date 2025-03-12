@@ -3,7 +3,5 @@ Frequency Encoder
 EXT_1 by Age mean Imputing
 Group Mean Imputing
 Model Prediction Imputing
-Clustering
-k-Neighbours Target Mean
+k-Neighbours Target Mean (Failed)
 Feature Selection
-Voting Models
